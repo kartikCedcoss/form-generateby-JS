@@ -1,0 +1,22 @@
+.maindiv{
+    margin:3% 30% 0% 20%;
+    
+    background: black;
+    padding: 1em 1em 4em 7em ;
+    border-radius: 8px;
+}
+
+.maindiv h2{
+    color: white;
+    margin-top: 30px;
+}
+.maindiv input[type='text']{
+    padding: 1em 18em 1em 0em;
+    background: linear-gradient(#e6dddd,rgb(199, 196, 196));
+}
+.maindiv input[type='submit']{
+    padding:12px 25px;
+    float: left;
+    background: linear-gradient(#2d8113,rgb(142, 177, 132));
+    
+}
